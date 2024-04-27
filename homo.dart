@@ -9,6 +9,7 @@ class HomoScreen extends StatefulWidget {
 }
 
 class _HomoScreenState extends State<HomoScreen> {
+  //list of categoires
   List<String> categories = [
     "Food",
     "Fruits",
